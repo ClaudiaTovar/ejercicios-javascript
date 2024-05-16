@@ -31,7 +31,7 @@ class Persona {
     //get
     /*para recuperar un valor de una propiedad.
     -puedo aplicar metodos a la propiedad recuperdad
-    -siempre debe retornar algo por lo que debo colocar un return 
+    -SIEMPRE debe retornar algo por lo que debo colocar un RETURN
     -debe usarse el this.propiedad para hacer referencia a la propiedad de la clase
     -el get no puede llevar el mismo nombre de la propiedad a la que hago referencia porque 
     crea un ciclo infinito 
